@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-class SecondLargest {
+class SecondLargest{
     public static void main(String[] args) {
 
         int[] array = {10, 20, 5, 40, 15};
